@@ -1,1 +1,2 @@
-yest
+spring:
+  name: Test
